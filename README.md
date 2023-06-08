@@ -12,7 +12,13 @@ A classic Snake game implemented in Python using the Pygame.
    git clone https://github.com/guy-davidi/snakeGame
 
 ## change dir snakeGame
-2. cd snakeGame
+2. goto dir snakeGame
+```
+cd snakeGame
+```
 
 ## Install the dependencies:
+3. Install
+```
 pip install pygame
+```
